@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Torch
+Comment=Kirigami Torch Application
+Version=1.0
+Exec=torch
+MimeType=application/x-torch;
+Icon=applications-development
+Type=Application
+Terminal=false
+Categories=Qt;KDE;
